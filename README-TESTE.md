@@ -86,12 +86,12 @@ PGCC011 - ATIVIDADE 01 <br />
 
 <hr />
 
-* **Luciano Junior** - *Documentação/Desenvolvimento* - [umdesenvolvedor](https://github.com/mmstec)
-* **Marcos Morais** - *Documentação/Desenvolvimento* - [fulanodetal](https://github.com/mmstec)
+* **Luciano Junior** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/mmstec)
+* **Marcos Morais** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/mmstec)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
