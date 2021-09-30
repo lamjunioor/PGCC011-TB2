@@ -1,4 +1,5 @@
-# PGCC011 - ATIVIDADE 01 ( Contador de Frequencia de Palavras )
+# Contador de Frequencia de Palavras
+
 UEFS - Universidade Estadual de Feira de Santana <br />
 PGCC - Pós-Graduação em Ciências da Computação <br />
 UEFS - Computação de auto desempenho <br />
@@ -6,19 +7,17 @@ PGCC011 - Computação de Alto Desempenho <br />
 Professor..: Angelo Amâncio Duarte <br /> 
 Aluno¹.....: Luciano Alves Machado Junior <br />
 Aluno².....: Marcos Morais de sousa <br />
+PGCC011 - ATIVIDADE 01 <br />
 
 <hr />
 
 ## 🎁 Sobre
 
-Este projeto tem como objetivo principal atender uma demanda avaliativa da disciplina PGCC011. Esta demanda consistiu em desenvolver algoritmos para contagem da frequência de palavras em textos que apontem as palavras mais comuns nos textos. Para tanto, foram desenvolvidos códigos seriais e paralelos nas linguagens de programação C++ e Phyton v3.
-
+Este projeto tem como objetivo principal atender a uma demanda avaliativa na disciplina PGCC011 (Computação de Alto Desempenho) do Programa de Pós-Graduação em Ciências da Computação da Universidade Estadual de Feira de Santana. Para tanto, o presente projeto deve contribuir na verificação do comportamento da escalabilidade de códigos seriais nas linguagens C e em Python, bem como as possíveis razões para as diferenças (ou não) de desempenho. Desta forma, foram desenvolvidos códigos seriais, paralelos e modulares nas linguagens de programação C++ e Python v3 para cômputo da frequência de palavras em arquivos textos.
 
 ## 🚀 Começando
 
-Este é o ponto de partida para instalar a Citomina. Os Arquivos Docker estão neste repositório
-
-Consulte **Implantação** para saber como implantar o projeto.
+Este é o ponto de partida para instalar a app. Os Arquivos necessários estão neste repositório 
 
 ### 📋 Pré-requisitos
 
@@ -76,17 +75,13 @@ Dar exemplos
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [C++](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
 * [PYTHON V3](https://maven.apache.org/) - Gerente de Dependência
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Luciano Junior** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/mmstec)
-* **Marcos Morais** - *Documentação* - [fulanodetal](https://github.com/mmstec)
+* **Luciano Junior** - *Documentação/Desenvolvimento* - [umdesenvolvedor](https://github.com/mmstec)
+* **Marcos Morais** - *Documentação/Desenvolvimento* - [fulanodetal](https://github.com/mmstec)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
@@ -94,7 +89,3 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
-
-
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
