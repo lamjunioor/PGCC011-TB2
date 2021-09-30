@@ -8,6 +8,7 @@ Aluno¹.....: Luciano Alves Machado Junior <br />
 Aluno².....: Marcos Morais de sousa <br />
 
 <hr />
+
 ## 🎁 Sobre
 
 Este projeto tem como objetivo principal atender uma demanda avaliativa da disciplina PGCC011. Esta demanda consistiu em desenvolver algoritmos para contagem da frequência de palavras em textos que apontem as palavras mais comuns nos textos. Para tanto, foram desenvolvidos códigos seriais e paralelos nas linguagens de programação C++ e Phyton v3.
@@ -65,25 +66,20 @@ Explique que eles verificam esses testes e porquê.
 Dar exemplos
 ```
 
-## 📦 Desenvolvimento
+## 📦 Arquivos
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+1. contaPalavras.cpp - Algoritmo serial em C++.
+2. contaPalavrasOMP.cpp - Versão paralelizada em C++, usando OpenMP do item 1.
+3. contaPalavras.py - Verão serial em Python v3 do item 1.
+4. modulo.cpp - Versão modularizada do item 2 em Python.
+5. contaPalavrasModulo.py - Algoritmo em Python usando o módulo do item 4.
 
 ## 🛠️ Construído com
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+* [C++](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
+* [PYTHON V3](https://maven.apache.org/) - Gerente de Dependência
 
 ## ✒️ Autores
 
