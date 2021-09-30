@@ -70,8 +70,8 @@ Dar exemplos
 
 ## 🛠️ Construído com
 
-* [C++](http://www.bloodshed.net/devcpp.html) - O framework web usado
-* [PYTHON V3](https://www.python.org) - Gerente de Dependência
+* [C++](http://www.bloodshed.net/devcpp.html) 
+* [PYTHON V3](https://www.python.org) 
 
 ## ✒️ Autores
 
