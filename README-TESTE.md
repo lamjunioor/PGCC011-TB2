@@ -1,4 +1,4 @@
-# PGCC011
+# PGCC011 - ATIVIDADE 01 ( Contador de Frequencia de Palavras )
 UEFS - Universidade Estadual de Feira de Santana <br />
 PGCC - Pós-Graduação em Ciências da Computação <br />
 UEFS - Computação de auto desempenho <br />
@@ -8,13 +8,14 @@ Aluno¹.....: Luciano Alves Machado Junior <br />
 Aluno².....: Marcos Morais de sousa <br />
 
 <hr />
-# Atividade 01 - Contador de Frequência de Palavras
+## 📌 Sobre
 
-Um parágrafo da descrição do projeto vai aqui
+Este projeto tem como objetivo principal atender uma demanda avaliativa da disciplina PGCC011. Esta demanda consistiu em desenvolver algoritmos para contagem da frequência de palavras em textos que apontem as palavras mais comuns nos textos. Para tanto, foram desenvolvidos códigos seriais e paralelos nas linguagens de programação C++ e Phyton v3.
+
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Este é o ponto de partida para instalar a Citomina. Os Arquivos Docker estão neste repositório
 
 Consulte **Implantação** para saber como implantar o projeto.
 
