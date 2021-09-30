@@ -8,7 +8,7 @@ Aluno¹.....: Luciano Alves Machado Junior <br />
 Aluno².....: Marcos Morais de sousa <br />
 
 <hr />
-# Título do projeto
+# Atividade 01 - Contador de Frequência de Palavras
 
 Um parágrafo da descrição do projeto vai aqui
 
