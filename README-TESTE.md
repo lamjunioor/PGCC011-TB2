@@ -90,6 +90,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 
 ## Citação
 
+```
 @MISC{contapalavras,
     author = {Marcos Morais, Luciano Junior},
     title = {{Contador de Frequencia de Palavras}},
@@ -97,6 +98,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
     year = {2019},
   }
 
+```
 ## 📄 Licença
 
 Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
