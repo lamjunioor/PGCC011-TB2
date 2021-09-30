@@ -23,10 +23,14 @@ gcc; python3; python3-distutils:
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+Você deve criar uma pasta na raiz do seu SO, para receber todos os arquivos, após download dos mesmos.
 
 ```
-Dar exemplos
+contaPalavras.cpp  
+--> Para compilar, execute g++ contaPalavras.cpp -o contaPalavras
+
+contaPalavras.cpp  
+--> Para compilar, execute g++ -fopenmp contaPalavrasOMP.cpp -o contaPalavrasOMP
 ```
 
 ### 🔧 Instalação
