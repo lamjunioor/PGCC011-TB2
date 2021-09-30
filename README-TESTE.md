@@ -88,6 +88,15 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 * PGCC011 - Computação de Alto Desempenho <br />
 * Professor - Angelo Amâncio Duarte <br /> 
 
+## Citação
+
+@MISC{contapalavras,
+    author = {Marcos Morais, Luciano Junior},
+    title = {{Contador de Frequencia de Palavras}},
+    howpublished = "\url{https://github.com/mmstec/PGCC011/}",
+    year = {2019},
+  }
+
 ## 📄 Licença
 
 Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
