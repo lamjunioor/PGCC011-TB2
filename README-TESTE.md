@@ -6,7 +6,7 @@ Este projeto tem como objetivo principal atender a uma demanda avaliativa na dis
 
 ## 🚀 Começando
 
-Este é o ponto de partida para instalar a app. Os Arquivos necessários estão neste repositório.
+Os Arquivos necessários e todas as orientações para uso deste projeto, estão neste repositório.
 Antes de começar, você vai precisar ter instalado em sua máquina o sistema Operaciol Linux e os seguintes pacotes, em suas verões mais recentes: 
 gcc; python3; python3-distutils:
 
