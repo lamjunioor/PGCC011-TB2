@@ -8,7 +8,7 @@ Aluno¹.....: Luciano Alves Machado Junior <br />
 Aluno².....: Marcos Morais de sousa <br />
 
 <hr />
-## 📌 Sobre
+## 🎁 Sobre
 
 Este projeto tem como objetivo principal atender uma demanda avaliativa da disciplina PGCC011. Esta demanda consistiu em desenvolver algoritmos para contagem da frequência de palavras em textos que apontem as palavras mais comuns nos textos. Para tanto, foram desenvolvidos códigos seriais e paralelos nas linguagens de programação C++ e Phyton v3.
 
@@ -89,8 +89,8 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* **Luciano Junior** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/mmstec)
+* **Marcos Morais** - *Documentação* - [fulanodetal](https://github.com/mmstec)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
@@ -98,12 +98,6 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
 
 
 ---
