@@ -29,7 +29,7 @@ Você deve criar uma pasta na raiz do seu SO, para receber todos os arquivos, ap
 contaPalavras.cpp  
 --> Para compilar, execute g++ contaPalavras.cpp -o contaPalavras
 
-contaPalavras.cpp  
+contaPalavrasOMP.cpp  
 --> Para compilar, execute g++ -fopenmp contaPalavrasOMP.cpp -o contaPalavrasOMP
 ```
 
