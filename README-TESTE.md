@@ -67,11 +67,11 @@ Dar exemplos
 
 ## 📦 Arquivos
 
-1. contaPalavras.cpp - Algoritmo serial em linguagem C++.
-2. contaPalavrasOMP.cpp - Versão paralelizada em C++, usando OpenMP do item 1.
-3. contaPalavras.py - Verão serial em Python v3 do item 1.
+1. contaPalavras.cpp - Algoritmo serial em C++.
+2. contaPalavrasOMP.cpp - Versão paralelizada do item 1, em C++, usando OpenMP
+3. contaPalavras.py - Verão serial do item 1, em Python v3.
 4. modulo.cpp - Versão modularizada do item 2 em Python.
-5. contaPalavrasModulo.py - Algoritmo em Python usando o módulo do item 4.
+5. contaPalavrasModulo.py - Algoritmo em Python usando o módulo (item 4).
 
 ## 🛠️ Construído com
 
