@@ -75,21 +75,18 @@ Dar exemplos
 
 ## ✒️ Autores
 
-UEFS - Universidade Estadual de Feira de Santana <br />
-PGCC - Pós-Graduação em Ciências da Computação <br />
-UEFS - Computação de auto desempenho <br />
-PGCC011 - Computação de Alto Desempenho <br />
-Professor..: Angelo Amâncio Duarte <br /> 
-Aluno¹.....: Luciano Alves Machado Junior <br />
-Aluno².....: Marcos Morais de sousa <br />
-PGCC011 - ATIVIDADE 01 <br />
-
-<hr />
-
 * **Luciano Junior** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/mmstec)
 * **Marcos Morais** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/mmstec)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+
+## 🎁 Instituição de Ensino
+
+* UEFS - Universidade Estadual de Feira de Santana <br />
+* PGCC - Pós-Graduação em Ciências da Computação <br />
+* UEFS - Computação de auto desempenho <br />
+* PGCC011 - Computação de Alto Desempenho <br />
+* Professor - Angelo Amâncio Duarte <br /> 
 
 ## 📄 Licença
 
