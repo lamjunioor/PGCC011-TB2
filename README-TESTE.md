@@ -1,16 +1,5 @@
 # Contador de Frequencia de Palavras
 
-UEFS - Universidade Estadual de Feira de Santana <br />
-PGCC - Pós-Graduação em Ciências da Computação <br />
-UEFS - Computação de auto desempenho <br />
-PGCC011 - Computação de Alto Desempenho <br />
-Professor..: Angelo Amâncio Duarte <br /> 
-Aluno¹.....: Luciano Alves Machado Junior <br />
-Aluno².....: Marcos Morais de sousa <br />
-PGCC011 - ATIVIDADE 01 <br />
-
-<hr />
-
 ## 🎁 Sobre
 
 Este projeto tem como objetivo principal atender a uma demanda avaliativa na disciplina PGCC011 (Computação de Alto Desempenho) do Programa de Pós-Graduação em Ciências da Computação da Universidade Estadual de Feira de Santana. Para tanto, o presente projeto deve contribuir na verificação do comportamento da escalabilidade de códigos seriais nas linguagens C e em Python, bem como as possíveis razões para as diferenças (ou não) de desempenho. Desta forma, foram desenvolvidos códigos seriais, paralelos e modulares nas linguagens de programação C++ e Python v3 para cômputo da frequência de palavras em arquivos textos.
@@ -81,10 +70,21 @@ Dar exemplos
 
 ## 🛠️ Construído com
 
-* [C++](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [PYTHON V3](https://maven.apache.org/) - Gerente de Dependência
+* [C++](http://www.bloodshed.net/devcpp.html) - O framework web usado
+* [PYTHON V3](https://www.python.org) - Gerente de Dependência
 
 ## ✒️ Autores
+
+UEFS - Universidade Estadual de Feira de Santana <br />
+PGCC - Pós-Graduação em Ciências da Computação <br />
+UEFS - Computação de auto desempenho <br />
+PGCC011 - Computação de Alto Desempenho <br />
+Professor..: Angelo Amâncio Duarte <br /> 
+Aluno¹.....: Luciano Alves Machado Junior <br />
+Aluno².....: Marcos Morais de sousa <br />
+PGCC011 - ATIVIDADE 01 <br />
+
+<hr />
 
 * **Luciano Junior** - *Documentação/Desenvolvimento* - [umdesenvolvedor](https://github.com/mmstec)
 * **Marcos Morais** - *Documentação/Desenvolvimento* - [fulanodetal](https://github.com/mmstec)
