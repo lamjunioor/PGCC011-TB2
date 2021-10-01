@@ -38,7 +38,7 @@ E repita:
 Até finalizar
 ```
 
-### 🔧 Funcionamento
+### 🔩 Funcionamento
 
 **Geral** <br />
 Dado um arquivo texto e um inteiro **n**, exibir as **n** palavras mais comuns no arquivo (e o número de suas ocorrências)  em frequência decrescente.
@@ -65,18 +65,15 @@ Explicar como executar os testes automatizados para este sistema.
 
 ### 🔩 Analise os testes de ponta a ponta
 
-Explique que eles verificam esses testes e porquê.
+**Pré-Requisitos**
+
+Antes de começar, você vai precisar ter instalado em sua máquina (Linux) e os seguintes pacotes: gcc; python3; python3-distutils:
 
 ```
-Dar exemplos
-```
+Gerar executáveis C
+Gerar módulo Py
+Como executar
 
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
 ```
 
 ## 📦 Arquivos
