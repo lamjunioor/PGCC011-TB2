@@ -38,6 +38,9 @@ $ sudo apt install clang
 # Instalando o python3-pip
 $ sudo apt install python3-pip
 ```
+
+### ⚙️ Executando
+
 Após a instalação desses pacotes vá até a pasta onde estão os códigos através do terminal e execute os seguintes comandos:
 
 Gerar executáveis C:
@@ -109,21 +112,6 @@ Na função principal de cada código temos a seguinte ordem:
 Conforme descrito no item acima, os arquivos aceitos para o processamento são do formato .txt. Nos códigos implementados utilizamos o nome do arquivo de entrada como “arquivo.txt” e recomendamos que os usuários que utilizarem nossos códigos submetam os arquivos com esse nome (para evitar precisar alterar o código). Além disso, recomendamos que a codificação do arquivo .txt seja ANSI, pois o sistema foi implementado para identificação de caracteres apenas nesse formato.
 
 Ao final da execução, os códigos devem gerar um arquivo de saída nomeado “resultadoC.txt”, "resultadoOMP.txt", “resultadoPy.txt” ou “resultadoModulo.txt”, dependendo da versão do código executado.
-
-
-### ⚙️ Executando
-
-Nesta seção, é explicado como executar o projeto.
-
-**Pré-Requisitos**
-
-
-```
-Gerar executáveis C
-Gerar módulo Py
-Como executar
-
-```
 
 ## 📦 Arquivos
 
