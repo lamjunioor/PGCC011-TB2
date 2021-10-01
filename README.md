@@ -129,10 +129,8 @@ Ao final da execução, os códigos devem gerar um arquivo de saída nomeado “
 
 ## ✒️ Autores
 
-* **Luciano Junior** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/mmstec)
+* **Luciano Junior** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/lamjunioor)
 * **Marcos Morais** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/mmstec)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
 ## 🎁 Instituição de Ensino
 
