@@ -41,6 +41,7 @@ Até finalizar
 ### 🔩 Funcionamento
 
 **Geral** <br />
+
 Dado um arquivo texto e um inteiro **n**, exibir as **n** palavras mais comuns no arquivo (e o número de suas ocorrências)  em frequência decrescente.
 Todos os códigos (com exceção do contaPalavrasModulo.py) possuem implementação similar. Eles iniciam com a declaração de uma função de nome mapearPalavras, que recebe uma string contendo uma linha do arquivo a ser lido e um map<string, int> em que a string é a palavra e o int é a frequência dessa palavra. Após isso, temos a separação da linha em caracteres, fazendo sua divisão em palavras. Na função mapearPalavras são considerados os requisitos para validar a palavra (requisitos estipulados no problema da atividade). Por fim, a função retorna o mapa com as alterações feitas após o processamento da linha.
 
@@ -55,6 +56,7 @@ Na função principal de cada código temos a seguinte ordem:
 5. Gera um arquivo de saída contendo as **n** palavras mais comuns no arquivo (e o número de suas ocorrências) em frequência decrescente.
 ```
 **Arquivos de E/S** <br />
+
 Conforme descrito no item acima, os arquivos aceitos para o processamento são do formato .txt. Nos códigos implementados utilizamos o nome do arquivo de entrada como “arquivo.txt” e recomendamos que os usuários que utilizarem nossos códigos submetam os arquivos com esse nome (para evitar precisar alterar o código). Além disso, recomendamos que a codificação do arquivo .txt seja ANSI, pois o sistema foi implementado para identificação de caracteres apenas nesse formato.
 
 Ao final da execução, os códigos devem gerar um arquivo de saída nomeado “resultadoC.txt”, "resultadoOMP.txt", “resultadoPy.txt” ou “resultadoModulo.txt”, dependendo da versão do código executado.
@@ -113,7 +115,6 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
     howpublished = "\url{https://github.com/mmstec/PGCC011/}",
     year = {2019},
   }
-
 ```
 ## 📄 Licença
 
