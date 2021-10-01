@@ -41,37 +41,38 @@ $ sudo apt install python3-pip
 
 Após a instalação desses pacotes vá até a pasta onde estão os códigos através do terminal e execute os seguintes comandos:
 
-Gerar executáveis C:
+**Gerar executáveis C**
 
-**Para o código serial**
+*Para o código serial:*
 ```
 # Esta execução irá gerar o executável serial de nome contaPalavras.out
 $ clang++ contaPalavras.cpp  -o contaPalavras.out
 ```
 
-**Para o código paralelo:**
+*Para o código paralelo:*
 ```
 # Esta execução irá gerar o executável paralelo de nome contaPalavrasOMP.out
 $ clang++ -fopenmp contaPalavrasOMP.cpp -lstdc++ -o contaPalavrasOMP.out
 ```
-**Gerar módulo Py**
+*Gerar módulo Py:*
 ```
 # Esta execução irá gerar o módulo paralelo para uso no Python. O nome do módulo gerado será modulo.so
 $ clang++ modulo.cpp -o modulo.so -g -std=c++1z -fopenmp -fPIC -shared -I/usr/include/python3.6m
 ```
+
 **Como executar**
 
-Para o código serial em C (após gerar o executável):
+*Para o código serial em C (após gerar o executável):*
 ```
 $ ./contaPalavras.out
 ```
 
-Para o código paralelo em C (após gerar o executável):
+*Para o código paralelo em C (após gerar o executável):*
 ```
 $ ./contaPalavrasOMP.out
 ```
 
-Para o código serial em Python:
+*Para o código serial em Python:*
 ```
 #Chame o python3
 $ python3
@@ -79,7 +80,7 @@ $ python3
 >> exec(open('contapalavras.py').read())
 ```
 
-Para o código serial em Python (após gerar o módulo):
+*Para o código serial em Python (após gerar o módulo):*
 ```
 #Chame o python3
 $ python3
