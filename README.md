@@ -183,9 +183,6 @@ contaPalavrasModulo.py
   </tr>
 </table>
 
-* **Luciano Junior** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/lamjunioor)
-* **Marcos Morais** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/mmstec)
-
 ## 🎁 Instituição de Ensino
 
 * [UEFS - Universidade Estadual de Feira de Santana](https://www.uefs.br/) <br />
