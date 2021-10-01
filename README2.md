@@ -24,20 +24,53 @@ Siga os passos abaixo:
 
 Abaixo, orientações de compilação :
 
+Pré-Requisitos
+Antes de começar, você vai precisar ter instalado em sua máquina (Linux) e os seguintes pacotes: 
+clang:
+```bash
+# Instalando o clang
+$ sudo apt install clang
 ```
-contaPalavras.cpp  
---> Para compilar, execute clang++ contaPalavras.cpp -o contaPalavras.out
-
-contaPalavrasOMP.cpp  
---> Para compilar, execute clang++ -fopenmp contaPalavrasOMP.cpp -lstdc++ -o contaPalavrasOMP.out
-
-contapalavras.py
---> Para compilar, execute clang++ contaPalavras.cpp  -o contaPalavras.out
-
-modulo.cpp
---> Para compilar, execute  lang++ modulo.cpp -o modulo.so -g -std=c++1z -fopenmp -fPIC -shared -I/usr/include/python3.6m
-
+	python3-pip:
+	```bash
+# Instalando o python3-pip
+$ sudo apt install python3-pip
 ```
+Gerar executáveis C:
+Para o código serial:
+```bash
+# Esta execução irá gerar o executável serial de nome contaPalavras.out
+$ clang++ contaPalavras.cpp  -o contaPalavras.out
+```
+Para o código paralelo:
+```bash
+# Esta execução irá gerar o executável paralelo de nome contaPalavrasOMP.out
+$ clang++ -fopenmp contaPalavrasOMP.cpp -lstdc++ -o contaPalavrasOMP.out
+```
+Gerar módulo Py
+```bash
+# Esta execução irá gerar o módulo paralelo para uso no Python. O nome do módulo gerado será modulo.so
+$ clang++ modulo.cpp -o modulo.so -g -std=c++1z -fopenmp -fPIC -shared -I/usr/include/python3.6m
+```
+Como executar
+Para o código serial em C (após gerar o executável):
+```bash
+$ ./contaPalavras.out
+```
+Para o código paralelo em C (após gerar o executável):
+```bash
+$ ./contaPalavrasOMP.out
+```
+Para o código serial em Python:
+```bash
+#Chame o python3
+$ ./contaPalavras.out
+```
+Para o código serial em C (após gerar o executável):
+```bash
+$ ./contaPalavras.out
+```
+
 
 
 ### 🔩 Funcionamento
