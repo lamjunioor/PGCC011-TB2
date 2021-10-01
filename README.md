@@ -137,7 +137,8 @@ Usa a função sort (descrita acima);
 
 *6. Gera um arquivo de saída*
 ```
-O arquivo contém as 'n' palavras mais comuns no arquivo (e o número de suas ocorrências) em frequência decrescente.
+O arquivo contém as 'n' palavras mais comuns no arquivo (e o número de suas ocorrências) em frequência decrescente. 
+Esses arquivos contém a frequência das *n* palavras encontradas seguido da palavra, como no exemplo: "20 => casa"
 ```
 
 **Arquivos de E/S** <br />
