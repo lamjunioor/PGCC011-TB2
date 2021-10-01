@@ -121,5 +121,5 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 ```
 ## 📄 Licença
 
-Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/mmstec/PGCC011/LICENSE.md) para detalhes.
+Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/mmstec/PGCC011/blob/main/LICENSE.md) para detalhes.
 
