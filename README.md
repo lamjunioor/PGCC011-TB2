@@ -115,7 +115,7 @@ um inteiro de nome qntValores, que recebe o valor 'n'
 citado acima (para estipular a quantidade de palavras que o usuário deseja saber a frequência em ordem decrescente);
 ```
 
-*3. Abertura de um arquivo o processamento*
+*3. Abertura de um arquivo para processamento*
 ```
 Usar no formato .txt;
 ```
