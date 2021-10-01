@@ -1,4 +1,4 @@
-# Contador de Freqüência de Palavras
+# Contador de Frequência de Palavras
 
 ## 🎁 Sobre
 
