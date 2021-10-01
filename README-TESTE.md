@@ -82,11 +82,11 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 
 ## 🎁 Instituição de Ensino
 
-* UEFS - Universidade Estadual de Feira de Santana <br />
-* PGCC - Pós-Graduação em Ciências da Computação <br />
+* [UEFS - Universidade Estadual de Feira de Santana](https://www.uefs.br/) <br />
+* [PGCC - Pós-Graduação em Ciências da Computação](https://pgcc.uefs.br/home) <br />
 * UEFS - Computação de auto desempenho <br />
 * PGCC011 - Computação de Alto Desempenho <br />
-* Professor - Angelo Amâncio Duarte <br /> 
+* Professor - [Angelo Amâncio Duarte](https://pgcc.uefs.br/sobre/docentes/angeloduarte) <br /> 
 
 ## Citação
 
