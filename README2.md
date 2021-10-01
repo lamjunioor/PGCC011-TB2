@@ -26,19 +26,16 @@ Abaixo, orientações de compilação :
 
 ```
 contaPalavras.cpp  
---> Para compilar, execute g++ contaPalavras.cpp -o contaPalavras
+--> Para compilar, execute clang++ contaPalavras.cpp -o contaPalavras.out
 
 contaPalavrasOMP.cpp  
---> Para compilar, execute g++ -fopenmp contaPalavrasOMP.cpp -o contaPalavrasOMP
+--> Para compilar, execute clang++ -fopenmp contaPalavrasOMP.cpp -lstdc++ -o contaPalavrasOMP.out
 
 contapalavras.py
---> explicar aqui
-
-contaPalavrasModulo.py
---> explicar aqui
+--> Para compilar, execute clang++ contaPalavras.cpp  -o contaPalavras.out
 
 modulo.cpp
---> explicar aqui
+--> Para compilar, execute  lang++ modulo.cpp -o modulo.so -g -std=c++1z -fopenmp -fPIC -shared -I/usr/include/python3.6m
 
 ```
 
