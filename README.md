@@ -138,14 +138,13 @@ Usa a função sort (descrita acima);
 *6. Gera um arquivo de saída*
 ```
 O arquivo contém as 'n' palavras mais comuns no arquivo (e o número de suas ocorrências) em frequência decrescente. 
-Esses arquivos contém a frequência das *n* palavras encontradas seguido da palavra, como no exemplo: "20 => casa"
 ```
 
 **Arquivos de E/S** <br />
 
 Conforme descrito no item acima, os arquivos aceitos para o processamento são do formato .txt. Nos códigos implementados utilizamos o nome do arquivo de entrada como “arquivo.txt” e recomendamos que os usuários que utilizarem nossos códigos submetam os arquivos com esse nome (para evitar precisar alterar o código). Além disso, recomendamos que a codificação do arquivo .txt seja ANSI, pois o sistema foi implementado para identificação de caracteres apenas nesse formato.
 
-Ao final da execução, os códigos devem gerar um arquivo de saída nomeado “resultadoC.txt”, "resultadoOMP.txt", “resultadoPy.txt” ou “resultadoModulo.txt”, dependendo da versão do código executado.
+Ao final da execução, os códigos devem gerar um arquivo de saída nomeado “resultadoC.txt”, "resultadoOMP.txt", “resultadoPy.txt” ou “resultadoModulo.txt”, dependendo da versão do código executado. Esses arquivos contém a frequência das n palavras encontradas, como no exemplo: "20 => casa"
 
 ## 📦 Arquivos
 
@@ -176,6 +175,13 @@ contaPalavrasModulo.py
 * [PYTHON V3](https://www.python.org) 
 
 ## ✒️ Autores
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/lamjunioor"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/42066765?v=4" width="100px;" alt=""/><br /><sub><b>Luciano Júnior</b></sub></a><br /> Documentação/Desenvolvimento</td>
+    <td align="center"><a href="https://github.com/mmstec"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/26969915?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Morais</b></sub></a><br />Documentação/Desenvolvimento</a></td>
+  </tr>
+</table>
 
 * **Luciano Junior** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/lamjunioor)
 * **Marcos Morais** - *Documentação/Desenvolvimento* - [desenvolvedor](https://github.com/mmstec)
