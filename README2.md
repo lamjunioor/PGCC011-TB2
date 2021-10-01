@@ -26,51 +26,65 @@ Abaixo, orientações de compilação :
 
 Pré-Requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina (Linux) e os seguintes pacotes: 
-clang:
-```bash
+
+**clang**
+```
 # Instalando o clang
 $ sudo apt install clang
 ```
-	python3-pip:
-	```bash
+
+**python3-pip**
+```
 # Instalando o python3-pip
 $ sudo apt install python3-pip
 ```
+Após a instalação desses pacotes vá até a pasta onde estão os códigos através do terminal e execute os seguintes comandos:
+
 Gerar executáveis C:
-Para o código serial:
-```bash
+
+**Para o código serial**
+```
 # Esta execução irá gerar o executável serial de nome contaPalavras.out
 $ clang++ contaPalavras.cpp  -o contaPalavras.out
 ```
-Para o código paralelo:
-```bash
+
+**Para o código paralelo:**
+```
 # Esta execução irá gerar o executável paralelo de nome contaPalavrasOMP.out
 $ clang++ -fopenmp contaPalavrasOMP.cpp -lstdc++ -o contaPalavrasOMP.out
 ```
-Gerar módulo Py
-```bash
+**Gerar módulo Py**
+```
 # Esta execução irá gerar o módulo paralelo para uso no Python. O nome do módulo gerado será modulo.so
 $ clang++ modulo.cpp -o modulo.so -g -std=c++1z -fopenmp -fPIC -shared -I/usr/include/python3.6m
 ```
-Como executar
+**Como executar**
+
 Para o código serial em C (após gerar o executável):
-```bash
-$ ./contaPalavras.out
 ```
-Para o código paralelo em C (após gerar o executável):
-```bash
-$ ./contaPalavrasOMP.out
-```
-Para o código serial em Python:
-```bash
-#Chame o python3
-$ ./contaPalavras.out
-```
-Para o código serial em C (após gerar o executável):
-```bash
 $ ./contaPalavras.out
 ```
 
+Para o código paralelo em C (após gerar o executável):
+```
+$ ./contaPalavrasOMP.out
+```
+
+Para o código serial em Python:
+```
+#Chame o python3
+$ python3
+#Uma vez executando o python3 rode o código
+>> exec(open('contapalavras.py').read())
+```
+
+Para o código serial em Python (após gerar o módulo):
+```
+#Chame o python3
+$ python3
+#Uma vez executando o python3 rode o código
+>> exec(open('contaPalavrasModulo.py').read())
+```
 
 
 ### 🔩 Funcionamento
