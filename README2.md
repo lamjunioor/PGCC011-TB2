@@ -116,7 +116,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
     author = {Luciano Junior, Marcos Morais},
     title = {{Contador de Frequencia de Palavras}},
     howpublished = "\url{https://github.com/mmstec/PGCC011/}",
-    year = {2019},
+    year = {2021},
   }
 ```
 ## 📄 Licença
