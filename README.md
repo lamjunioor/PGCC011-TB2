@@ -99,36 +99,42 @@ Além disso, temos uma função de nome sort, que recebe o mapa após o processa
 
 Na função principal de cada código temos a seguinte ordem: 
 
-1. (somente para o modulo.cpp) Inicia com funções abaixo, de modo a garantir o funcionamento correto do módulo;
+*1. (somente para o modulo.cpp) Inicia com funções abaixo, de modo a garantir o funcionamento correto do módulo*
 ```
     a. DLLInitialization para gerar o módulo; 
     b. ModuleFunctions para definir as funções do módulo; 
     c. ModuleDefinitions estabelece as definições do módulo ;
     d. PyInit_modulo para iniciar o módulo.
 ```
-2. Declaração de variáveis 
+
+*2. Declaração de variáveis*
 ```
 Aqui declaramos as variáveis auxiliares, o mapa de tipo <string, int> e 
 um inteiro de nome qntValores, que recebe o valor 'n' 
 citado acima (para estipular a quantidade de palavras que o usuário deseja saber a frequência em ordem decrescente);
 ```
-3. Abertura de um arquivo o processamento;
+
+*3. Abertura de um arquivo o processamento*
 ```
 Usar no formato .txt;
 ```
-4. Passa cada linha do arquivo, para a função mapearPalavras (descrita acima). 
+
+*4. Passa cada linha do arquivo, para a função mapearPalavras (descrita acima)* 
 ```
 No caso dos algoritimos em paralelo, ocorre uma divisão do mapa para cada Thread;
 ```
-4.1. (Somente para algoritmos em paralelo)
+
+*4.1. (Somente para algoritmos em paralelo)*
 ```
 Junta os mapas de cada Thread;
 ```
-5. Ordena o mapa 
+
+*5. Ordena o mapa*
 ```
 Usa a função sort (descrita acima);
 ```
-6. Gera um arquivo de saída 
+
+*6. Gera um arquivo de saída*
 ```
 O arquivo contém as 'n' palavras mais comuns no arquivo (e o número de suas ocorrências) em frequência decrescente.
 ```
