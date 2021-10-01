@@ -98,14 +98,41 @@ Todos os códigos (com exceção do contaPalavrasModulo.py) possuem implementaç
 Além disso, temos uma função de nome sort, que recebe o mapa após o processamento de todo o arquivo e realiza a ordenação dele de acordo com a frequência de cada palavra encontrada.
 
 Na função principal de cada código temos a seguinte ordem: 
+
+1. (somente para o modulo.cpp) Inicia com funções abaixo, de modo a garantir o funcionamento correto do módulo;
 ```
-1. Declaração de variáveis - Aqui declaramos as variáveis auxiliares, o mapa de tipo <string, int> e um inteiro de nome qntValores, que recebe o valor 'n' citado acima (para estipular a quantidade de palavras que o usuário deseja saber a frequência em ordem decrescente);
-2. Abertura de um arquivo no formato .txt para o processamento;
-3. Passa cada linha do arquivo, para a função mapearPalavras (descrita acima). No caso dos algoritimos em paralelo, ocorre uma divisão do mapa para cada Thread;
-3.1. (Somente para algoritimos em paralelo): Junta os mapas de cada Thread;
-4. Ordena o mapa com a função sort (descrita acima);
-5. Gera um arquivo de saída contendo as 'n' palavras mais comuns no arquivo (e o número de suas ocorrências) em frequência decrescente.
+    a. DLLInitialization para gerar o módulo; 
+    b. ModuleFunctions para definir as funções do módulo; 
+    c. ModuleDefinitions estabelece as definições do módulo ;
+    d. PyInit_modulo para iniciar o módulo.
 ```
+2. Declaração de variáveis 
+```
+Aqui declaramos as variáveis auxiliares, o mapa de tipo <string, int> e 
+um inteiro de nome qntValores, que recebe o valor 'n' 
+citado acima (para estipular a quantidade de palavras que o usuário deseja saber a frequência em ordem decrescente);
+```
+3. Abertura de um arquivo o processamento;
+```
+Usar no formato .txt;
+```
+4. Passa cada linha do arquivo, para a função mapearPalavras (descrita acima). 
+```
+No caso dos algoritimos em paralelo, ocorre uma divisão do mapa para cada Thread;
+```
+4.1. (Somente para algoritmos em paralelo)
+```
+Junta os mapas de cada Thread;
+```
+5. Ordena o mapa 
+```
+Usa a função sort (descrita acima);
+```
+6. Gera um arquivo de saída 
+```
+O arquivo contém as 'n' palavras mais comuns no arquivo (e o número de suas ocorrências) em frequência decrescente.
+```
+
 **Arquivos de E/S** <br />
 
 Conforme descrito no item acima, os arquivos aceitos para o processamento são do formato .txt. Nos códigos implementados utilizamos o nome do arquivo de entrada como “arquivo.txt” e recomendamos que os usuários que utilizarem nossos códigos submetam os arquivos com esse nome (para evitar precisar alterar o código). Além disso, recomendamos que a codificação do arquivo .txt seja ANSI, pois o sistema foi implementado para identificação de caracteres apenas nesse formato.
