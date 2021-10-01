@@ -178,8 +178,8 @@ contaPalavrasModulo.py
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/lamjunioor"><img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/42066765?v=4" width="100px;" alt=""/><br /><sub><b>Luciano Júnior</b></sub></a><br /> Documentação/Desenvolvimento</td>
-    <td align="center"><a href="https://github.com/mmstec"><img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/26969915?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Morais</b></sub></a><br />Documentação/Desenvolvimento</a></td>
+    <td align="center"><a href="https://github.com/lamjunioor"><img style="border-top-right-radius: 100%;" src="https://avatars.githubusercontent.com/u/42066765?v=4" width="100px;" alt=""/><br /><sub><b>Luciano Júnior</b></sub></a><br /> Documentação/Desenvolvimento</td>
+    <td align="center"><a href="https://github.com/mmstec"><img style="border-top-right-radius: 100%;" src="https://avatars.githubusercontent.com/u/26969915?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Morais</b></sub></a><br />Documentação/Desenvolvimento</a></td>
   </tr>
 </table>
 
