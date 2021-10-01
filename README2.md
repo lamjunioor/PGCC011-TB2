@@ -18,7 +18,7 @@ Siga os passos abaixo:
 
 ```
 1. Crie uma pasta na raiz do seu sistema operacional.
-2. Copie os arquivos que vc baixou para a pasta criada.
+2. Copie os arquivos que você baixou para a pasta criada.
 3. Pronto, seus arquivos estão prontos para uso.
 ```
 
