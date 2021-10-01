@@ -7,14 +7,22 @@ Este projeto tem como objetivo principal atender a uma demanda avaliativa na dis
 ## 🚀 Começando
 
 Os Arquivos necessários e todas as orientações para uso deste projeto, estão neste repositório.
-Antes de começar, você vai precisar ter instalado em sua máquina o sistema Operaciol Linux e os seguintes pacotes, em suas verões mais recentes: 
+Antes de começar, você vai precisar ter instalado em sua máquina o sistema Operaciol Linux e os seguintes pacotes:<br />
 gcc; python3; python3-distutils:
 
-### 📋 Pré-requisitos para compilar
+### 📋 Pré-requisitos para compilação
 
-Antes de começar, você vai precisar ter instalado em seu computador o sistema operacional Linux (Ubuntu) e os seguintes pacotes: gcc; python3; python3-distutils.
-Em seguida, você deve criar uma pasta na raiz do seu sistema operacional, para receber todos os arquivos, após download dos mesmos.
-obs. recomendamos que o SO e os pacotes descritos acima estejam na versão mais recente possível.
+Recomendamos que o sistema operacional e os pacotes, descritos acima, estejam na versão mais recente possível.
+
+Siga os passos abaixo:
+
+```
+1. Crie uma pasta na raiz do seu sistema operacional.
+2. Copie os arquivos que vc baixou para a pasta criada.
+3. Pronto, seus arquivos estão prontos para uso.
+```
+
+Abaixo, orientações de compilação :
 
 ```
 contaPalavras.cpp  
@@ -34,15 +42,6 @@ modulo.cpp
 
 ```
 
-### 🔧 Instalação
-
-Abaixo, dica e exemplos de istalação:
-
-```
-1. Crie uma pasta na raiz do seu sistema operacional.
-2. Copie os arquivos que vc baixou para a pasta criada.
-3. Pronto, seus arquivos estão prontos para serem executados.
-```
 
 ### 🔩 Funcionamento
 
