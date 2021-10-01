@@ -61,11 +61,10 @@ Conforme descrito no item acima, os arquivos aceitos para o processamento são d
 
 Ao final da execução, os códigos devem gerar um arquivo de saída nomeado “resultadoC.txt”, "resultadoOMP.txt", “resultadoPy.txt” ou “resultadoModulo.txt”, dependendo da versão do código executado.
 
-## ⚙️ Executando 
 
-Explicar como executar os testes automatizados para este sistema.
+### ⚙️ Executando
 
-### 🔩 Analise os testes de ponta a ponta
+Nesta seção, é explicado como executar o projeto.
 
 **Pré-Requisitos**
 
