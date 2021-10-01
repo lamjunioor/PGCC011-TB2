@@ -109,7 +109,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 * PGCC011 - Computação de Alto Desempenho <br />
 * Professor - [Angelo Amâncio Duarte](https://pgcc.uefs.br/sobre/docentes/angeloduarte) <br /> 
 
-## Citação
+## 🚀 Citação
 
 ```
 @MISC{contapalavras,
@@ -121,5 +121,5 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 ```
 ## 📄 Licença
 
-Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/mmstec/PGCC011) para detalhes.
 
