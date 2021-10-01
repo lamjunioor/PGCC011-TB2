@@ -10,9 +10,11 @@ Os Arquivos necessários e todas as orientações para uso deste projeto, estão
 Antes de começar, você vai precisar ter instalado em sua máquina o sistema Operaciol Linux e os seguintes pacotes, em suas verões mais recentes: 
 gcc; python3; python3-distutils:
 
-### 📋 Pré-requisitos
+### 📋 Pré-requisitos para compilar
 
-Você deve criar uma pasta na raiz do seu SO, para receber todos os arquivos, após download dos mesmos.
+Antes de começar, você vai precisar ter instalado em seu computador o sistema operacional Linux (Ubuntu) e os seguintes pacotes: gcc; python3; python3-distutils.
+Em seguida, você deve criar uma pasta na raiz do seu sistema operacional, para receber todos os arquivos, após download dos mesmos.
+obs. recomendamos que o SO e os pacotes descritos acima estejam na versão mais recente possível.
 
 ```
 contaPalavras.cpp  
@@ -72,7 +74,6 @@ Nesta seção, é explicado como executar o projeto.
 
 **Pré-Requisitos**
 
-Antes de começar, você vai precisar ter instalado em sua máquina (Linux) e os seguintes pacotes: gcc; python3; python3-distutils:
 
 ```
 Gerar executáveis C
