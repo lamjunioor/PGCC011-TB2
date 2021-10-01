@@ -24,18 +24,12 @@ contaPalavrasOMP.cpp
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
+Abaixo, dica e exemplos de istalação:
 
 ```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
+1. Crie uma pasta na raiz do seu sistema operacional.
+2. Copie os arquivos que vc baixou para a pasta criada.
+3. Pronto, seus arquivos estão prontos para serem executados.
 ```
 
 ### 🔩 Funcionamento
