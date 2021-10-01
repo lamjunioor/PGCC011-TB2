@@ -20,9 +20,9 @@ Siga os passos abaixo:
 3. Pronto, seus arquivos estão prontos para uso.
 ```
 
-Abaixo, orientações de compilação :
+Abaixo, orientações de compilação:
 
-Pré-Requisitos
+**Pré-Requisitos**
 Antes de começar, você vai precisar ter instalado em sua máquina (Linux) e os seguintes pacotes: 
 
 **clang**
@@ -114,13 +114,28 @@ Ao final da execução, os códigos devem gerar um arquivo de saída nomeado “
 
 ## 📦 Arquivos
 
-1. contaPalavras.cpp - Algoritmo serial em C++.
-2. contaPalavrasOMP.cpp - Versão paralelizada do item 1, em C++, usando OpenMP
-3. contaPalavras.py - Verão serial do item 1, em Python v3.
-4. modulo.cpp - Versão modularizada do item 2 em Python.
-5. contaPalavrasModulo.py - Algoritmo em Python usando o módulo (item 4).
+1. Algoritmo serial em C++
+```
+contaPalavras.cpp 
+```
+2. Versão paralelizada do item 1, em C++, usando OpenMP
+```
+contaPalavrasOMP.cpp
+```
+3. Verão serial do item 1, em Python v3
+```
+ contaPalavras.py
+```
+4. Versão modularizada do item 2 em Python
+```
+modulo.cpp
+```
+5. Algoritmo em Python usando o módulo (item 4)
+```
+contaPalavrasModulo.py
+```
 
-## 🛠️ Construído com
+## 🛠️ Construído em
 
 * [C++](http://www.bloodshed.net/devcpp.html) 
 * [PYTHON V3](https://www.python.org) 
@@ -134,7 +149,6 @@ Ao final da execução, os códigos devem gerar um arquivo de saída nomeado “
 
 * [UEFS - Universidade Estadual de Feira de Santana](https://www.uefs.br/) <br />
 * [PGCC - Pós-Graduação em Ciências da Computação](https://pgcc.uefs.br/home) <br />
-* UEFS - Computação de auto desempenho <br />
 * PGCC011 - Computação de Alto Desempenho <br />
 * Professor - [Angelo Amâncio Duarte](https://pgcc.uefs.br/sobre/docentes/angeloduarte) <br /> 
 
