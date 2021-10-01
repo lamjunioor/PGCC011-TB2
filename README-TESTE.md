@@ -20,6 +20,16 @@ contaPalavras.cpp
 
 contaPalavrasOMP.cpp  
 --> Para compilar, execute g++ -fopenmp contaPalavrasOMP.cpp -o contaPalavrasOMP
+
+contapalavras.py
+--> explicar aqui
+
+contaPalavrasModulo.py
+--> explicar aqui
+
+modulo.cpp
+--> explicar aqui
+
 ```
 
 ### 🔧 Instalação
