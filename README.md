@@ -1,4 +1,4 @@
-# Contador de Frequência de Palavras
+# Contador de Frequência de Palavras MPI
 
 ## 🎁 Sobre
 
