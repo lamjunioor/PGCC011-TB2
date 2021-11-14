@@ -38,8 +38,8 @@ $ g++ contaPalavras.cpp -o contaPalavras.out -std=c++0x
 ```
 
 *Para o código paralelo:*
-# Esta execução irá gerar o executável paralelo de nome contaPalavrasMPI.out
 ```
+# Esta execução irá gerar o executável paralelo de nome contaPalavrasMPI.ou
 $ mpicxx contaPalavrasMPI.cpp -o contaPalavrasMPI.e -std=c++0x
 ```
 
