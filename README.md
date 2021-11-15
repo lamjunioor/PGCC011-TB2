@@ -64,9 +64,7 @@ Dado um arquivo texto e um inteiro **n**, exibir as **n** palavras mais comuns n
 
 Os códigos iniciam com a declaração de uma função de nome mapearPalavras, que recebe uma string contendo uma linha do arquivo a ser lido e um map<string, int> em que a string é a palavra e o int é a frequência dessa palavra. Após, temos a separação da linha em caracteres, fazendo sua divisão em palavras. Na função mapearPalavras são considerados os requisitos para validar a palavra (requisitos estipulados no problema da atividade). Por fim, a função retorna o mapa com as alterações feitas após o processamento da linha.
 
-Além disso, no código em paralelo, temos seguintes funções auxiliares **ordenarMapa** (ordena o mapa), **unirMapas** (junta os mapas), **imprimirParaArquivo** (imprime o resultado para arquivo). 
-
-Já no código serial temos uma função de nome **sort**, que recebe o mapa após o processamento de todo o arquivo e realiza a ordenação dele de acordo com a frequência de cada palavra encontrada.
+Além disso, no código em paralelo, temos seguintes funções auxiliares **ordenarMapa** (ordena o mapa), **unirMapas** (junta os mapas apenas no código em paralelo), **imprimirParaArquivo** (imprime o resultado para arquivo). 
 
 Na função principal de cada código temos a seguinte ordem: 
 
