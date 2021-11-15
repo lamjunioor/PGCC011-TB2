@@ -94,7 +94,7 @@ Junta os mapas;
 
 *4. Ordena o mapa*
 ```
-Usa a função ordenarMapa (no código em paralelo) e sort (no código serial);
+Usa a função ordenarMapa;
 ```
 
 *5. Gera um arquivo de saída*
