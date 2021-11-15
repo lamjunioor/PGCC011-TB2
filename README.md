@@ -34,7 +34,7 @@ Para iniciar execute os seguintes comandos:
 *Para o código serial:*
 ```
 # Esta execução irá gerar o executável serial de nome contaPalavras.out
-$ g++ contaPalavras.cpp -o contaPalavras.out -std=c++0x
+$ g++ contaPalavras.cpp -o contaPalavras -std=c++0x
 ```
 
 *Para o código paralelo:*
