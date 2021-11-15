@@ -17,7 +17,7 @@ Siga os passos abaixo:
 ```
 1. Crie uma pasta na raiz do seu sistema operacional.
 2. Baixe os arquivos deste projeto na pasta criada.
-3. Pronto, seus arquivos estão prontos para uso.
+3. Seus arquivos estão prontos para uso.
 ```
 
 Abaixo, orientações de compilação:
