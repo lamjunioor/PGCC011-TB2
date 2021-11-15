@@ -47,7 +47,7 @@ $ mpicxx contaPalavrasMPI.cpp -o contaPalavrasMPI.e -std=c++0x
 
 *Para o código serial em C (após gerar o executável):*
 ```
-$ ./contaPalavras.out
+$ ./contaPalavras <nomedoarquivo.txt> <arquivosaida.txt>
 ```
 
 *Para o código paralelo em C (após gerar o executável):*
